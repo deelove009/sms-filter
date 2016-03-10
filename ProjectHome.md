@@ -1,0 +1,1 @@
+The application aims to create filters for incoming SMSes on Android phones. This is basically to unclutter the inbox and let the user keep his/ her messages well organised
